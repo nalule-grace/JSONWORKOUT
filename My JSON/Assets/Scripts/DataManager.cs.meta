@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b6d9a09438f879443a4261f133dad0a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonPrefab: {instanceID: 0}
+  - buttonContainer: {instanceID: 0}
+  - ballContainer: {instanceID: 0}
+  - ballPrefab: {fileID: 8214173648757174346, guid: b2c43a9eb8929e6479658d12e8cc8546, type: 3}
+  - descriptionTextBox: {instanceID: 0}
+  - titleText: {instanceID: 0}
+  - playPauseButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
